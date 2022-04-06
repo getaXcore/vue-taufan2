@@ -1,4 +1,11 @@
-# vue-taufan2
+# vue-taufan2 as responsive web consume API from <a href="https://github.com/getaXcore/beapp" target="_blank">beapp</a> 
+
+Availabe features (will be updated) :
+<ul>
+    <li>Login</li>
+    <li>Dashboard</li>
+    <li>logout</li>
+</ul>
 
 This template should help get you started developing with Vue 3 in Vite.
 
